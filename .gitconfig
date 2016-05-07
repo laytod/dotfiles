@@ -1,0 +1,17 @@
+[user]
+	email = laytonmcdaniel@gmail.com
+	name = Layton McDaniel
+
+[color]
+	ui = auto
+
+[github]
+	user = laytod
+
+[alias]
+	cmm = commit -m
+	st = status
+	co = checkout
+	ls = ls-files
+	br = branch
+
